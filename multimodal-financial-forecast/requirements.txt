@@ -1,0 +1,14 @@
+torch
+transformers
+pandas
+yfinance
+snscrape
+fastapi
+uvicorn
+scikit-learn
+apache-airflow
+numpy
+pydantic
+requests
+jinja2
+matplotlib
